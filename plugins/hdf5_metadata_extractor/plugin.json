@@ -1,0 +1,6 @@
+{
+    "name": "HDF5 metadata extractor",
+    "description": "Enables the extraction of metadata from uploaded HDF5 files",
+    "version": "0.1.0",
+    "python3": false
+}

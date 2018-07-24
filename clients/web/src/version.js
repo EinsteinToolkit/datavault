@@ -1,0 +1,13 @@
+/*eslint-disable */
+// THIS FILE IS AUTO-GENERATED
+var versionInfo = 
+{
+  "git": true,
+  "SHA": "4aface89ae7123530bed2aa04077abda1cbadfba",
+  "shortSHA": "4aface8",
+  "date": "2017-12-14T22:32:50+0000",
+  "apiVersion": "2.4.0"
+}
+;
+export default versionInfo;
+/*eslint-enable */

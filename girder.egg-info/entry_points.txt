@@ -1,0 +1,6 @@
+[console_scripts]
+girder-sftpd = girder.api.sftp:_main
+girder-shell = girder.utility.shell:main
+girder-server = girder.__main__:main
+girder-install = girder.utility.install:main
+

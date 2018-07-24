@@ -22,6 +22,7 @@ import datetime
 import json
 import os
 import six
+# Six: Python 2 and 3 Compatibility Library. Six provides simple utilities for wrapping over differences between Python 2 and Python 3. more details: https://pythonhosted.org/six/
 
 from bson.objectid import ObjectId
 from .model_base import Model

@@ -1,0 +1,1 @@
+{"name":"girder_plugin_provenance","content":{"./plugins/provenance/web_client/main.js":{"id":2,"meta":{}},"./plugins/provenance/web_client/routes.js":{"id":3,"meta":{}},"./plugins/provenance/web_client/views/ConfigView.js":{"id":4,"meta":{}},"./plugins/provenance/web_client/templates/configView.pug":{"id":5,"meta":{}}}}
