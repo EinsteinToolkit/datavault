@@ -1,0 +1,6 @@
+{
+    "name": "Timeseries Plot",
+    "description": "View timeseries of L2-M2 images in the browser",
+    "version": "0.1.0",
+    "python3": true
+}

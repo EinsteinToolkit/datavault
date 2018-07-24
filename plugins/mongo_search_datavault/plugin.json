@@ -1,0 +1,5 @@
+{
+    "name": "MongoDB custom search for DataVault",
+    "description": "Allow clients to run custom mongo searches (including all metadata and hd5 file) against the database.",
+    "version": "0.1.0"
+}
